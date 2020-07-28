@@ -4,7 +4,7 @@ description: 'Cluster Baru BSD | Apartemen Baru BSD | Launching Rumah BSD | Laun
 logo: 'assets/images/bdscityhome_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-homeurl: 'http://127.0.0.1:4000/'
+homeurl: 'https://bsdcityhome.github.io'
 disqus: 'bsdcityhome'
 email: 'bsdcityhome@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -23,7 +23,7 @@ authors:
   sal:
     name:           Sally
     site:           https://bsdcityhome.com
-    avatar:         assets/images/avatar1.png
+    avatar:         /assets/images/avatar1.png
     bio:            "Hi, I am Sally, the writter of BSDCityHome, given latest updated project at BSD City. I hope you like it!"
     email:          bsdcityhome@gmail.com
     instagram:      https://instagram.com/bsdcity_home
@@ -31,7 +31,7 @@ authors:
   jane:
     name:           Jane
     site:           https://bsdcityhome.com
-    avatar:         assets/images/avatar2.png
+    avatar:         /assets/images/avatar2.png
     bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
     email:          bsdcityhome@gmail.com
     instagram:      https://instagram.com/bsdcity_home
