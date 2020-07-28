@@ -5,6 +5,7 @@ author: jane
 categories: [ Sinarmas Land, Ruko ]
 image: assets/images/ruko-ol-bsd/ruko-ol-anggrek-loka-bsd-city.jpeg
 tags: [BSD City, Tangerang,2020,featured]
+lokasibrosur: freja-house-bsd/brosur-rumah-freja-house-bsd.pdf
 ---
 **Sinarmas Land** segera akan merilis proyek komersial ruko terbaru dengan nama `Ruko OL BSD` pada harga jual perdana daripada Rp. 1,2 milyaran dengan unit sangat terbatas! Dimana lagi ada ruko baru BSD City yang dijual pada harga segitu?
 __Ruko OL BSD__ memiliki dimensi luas tanah 4x8 m2 dengan bangunan ruko 2 lantai.

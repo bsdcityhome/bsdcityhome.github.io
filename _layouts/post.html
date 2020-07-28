@@ -69,6 +69,14 @@ layout: default
 			{{ content }}                
 			</article>
 			
+			<!-- Download Button -->
+			<div class="mb-4">
+				<!-- Auto width -->
+				<a href="{% if page.lokasibrosur contains "://" %}{{ page.lokasibrosur }}{% else %}{{ site.brochureurl }}/{{ page.lokasibrosur }}{% endif %}"">
+				<button class="downloadbtn"><i class="fa fa-download"></i> Download Brosur</button>
+				</a>
+			</div>			
+
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">

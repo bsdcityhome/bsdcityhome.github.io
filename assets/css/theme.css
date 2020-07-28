@@ -2,6 +2,21 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+ /* Style buttons */
+.downloadbtn {
+	background-color:#eec900;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	cursor: pointer;
+	font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+.downloadbtn:hover {
+	background-color:#e2be00;
+  }
+
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
